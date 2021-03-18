@@ -6,3 +6,4 @@ batman
 flash
 zeledon
 Thor
+Super Lopez
