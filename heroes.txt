@@ -5,3 +5,4 @@ spiderman
 batman
 flash
 zeledon
+Thor
